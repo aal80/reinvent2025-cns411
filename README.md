@@ -5,7 +5,7 @@
 Many development teams rely on Apache Kafka for streaming data across a variety of business-critical applications. AWS Lambda integrates natively with Apache Kafka, offering a serverless approach to event-driven data processing. In this chalk talk, we'll dive into architectural considerations and design patterns for scaling Kafka workloads with AWS Lambda. We'll explore how to optimize performance for both ordered and unordered workloads, and how to apply parallel processing strategies when working with varying Kafka topic partition counts. This session includes an interactive whiteboarding discussion and a review of a reference architecture used to improve throughput and efficiency in production environments.
 
 ## Slides
-* [Session presentation slides](./reinvent2025-cns411.pdf?raw=true)
+* [Session presentation slides](./reinvent2025-cns411-kafka.pdf?raw=true)
 
 ## Useful links
 * [[Blog] Improving throughput of serverless streaming workloads for Kafka](https://aws.amazon.com/blogs/compute/improving-throughput-of-serverless-streaming-workloads-for-kafka/)
